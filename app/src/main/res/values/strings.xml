@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">基站信息demo</string>
+    <string name="auto">自动点!</string>
+    <string name="head">手点</string>
+    <string name="clear">清除</string>
+</resources>
